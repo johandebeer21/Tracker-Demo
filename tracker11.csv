@@ -1,9 +1,10 @@
 Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,Description,Attach file,Updated at,Effort level
-Willem Adriaan ,jv Rensburg ,Section 13,Application Received,Not started,MP Vorster,,High,Yes,Application recieved from Tally,,26/08/2025,
+Willem Adriaan ,jv Rensburg ,Section 13,Application Received,Done,MP Vorster,,High,Yes,Application recieved from Tally,,26/08/2025,
 ,,,Payment Confirmed,In progress ,Yoco,,High,Yes,Payment confirmed via Yoco/EFT,,26/08/2025,High
 ,,,Preparing Documents,In progress ,MP Vorster,29/08/2025,High,No,Preparing all documents as requested,,26/08/2025,Medium
 ,,,Quality Assurance Review,Not started,Johan De Beer,29/08/2025,High,No,Quality check on all documents,,,High
 ,,,Documents Ready,Not started,Johan De Beer,29/08/2025,High,No,Documents finalized and approved,,,
 
 ,,,Documents sent,Not started,,29/08/2025,High,No,Documents sent to client,,,
+
 
