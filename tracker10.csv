@@ -1,0 +1,7 @@
+Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,Description,Attach file,Updated at,Effort level
+KungFu,Panda,Section 13,Application Received,Done,Johan De Beer,09/08/2025,High,Yes,Application recieved from Tally,,09/08/2025,
+,,,Payment Confirmed,Done,Yoco,10/08/2025,High,Yes,Payment confirmed via Yoco/EFT,,11/08/2025,High
+,,,Preparing Documents,In progress ,MP Vorster,,High,No,Preparing all documents as requested,,,Medium
+,,,Quality Assurance Review,In progress ,Johan De Beer,,High,No,Quality check on all documents,,,High
+,,,Documents Ready,In progress ,Johan De Beer,,High,No,Documents finalized and approved,,,
+,,,Documents sent,Not started,,,High,No,Documents sent to client,,,
