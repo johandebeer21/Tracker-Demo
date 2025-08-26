@@ -1,0 +1,7 @@
+Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,Description,Attach file,Updated at,Effort level
+Mohammed Asif,Osman,Section 13,Application Received,Done,MP Vorster,,High,Yes,Application recieved from Tally,,23/08/2025,
+,,,Payment Confirmed,Done,Yoco,,High,Yes,Payment confirmed via Yoco/EFT,,23/08/2025,High
+,,,Preparing Documents,Done,MP Vorster,25/08/2025,High,No,Preparing all documents as requested,,25/08/2025,Medium
+,,,Quality Assurance Review,Done,Johan De Beer,25/08/2025,High,No,Quality check on all documents,,August 25,High
+,,,Documents Ready,Done,Johan De Beer,25/08/2025,High,No,Documents finalized and approved,,25/08/2025,
+,,,Documents sent,Done,,25/08/2025,High,No,Documents sent to client,,25/08/2025,
