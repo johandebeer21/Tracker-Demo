@@ -1,0 +1,7 @@
+Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,Description,Attach file,Updated at,Effort level
+Stiaan ,Wolmarans,Section 13,Application Received,Done,MP Vorster,,High,Yes,Application recieved from Tally,,21/08/2025,
+,,,Payment Confirmed,Done,Yoco,,High,Yes,Payment confirmed via Yoco/EFT,,21/08/2025,High
+,,,Preparing Documents,Done,MP Vorster,22/08/2025,High,No,Preparing all documents as requested,,22/08/2025,Medium
+,,,Quality Assurance Review,Done,Johan De Beer,22/08/2025,High,No,Quality check on all documents,,August 22,High
+,,,Documents Ready,Done,Johan De Beer,22/08/2025,High,No,Documents finalized and approved,,22/08/2025,
+,,,Documents sent,Done,,22/08/2025,High,No,Documents sent to client,,22/08/2025,
