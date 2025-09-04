@@ -1,9 +1,10 @@
 Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,Description,Attach file,Updated at,Effort level
 Rubber,Ducky,Section 13,Application Received,Done,Johan De Beer,04/09/2025,High,Yes,Application recieved from Tally,,04/09/2025,
 ,,,Payment Confirmed,Done,Yoco,04/09/2025,High,Yes,Payment confirmed via Yoco/EFT,,04/09/2025,High
-,,,Preparing Documents,In progress ,MP Vorster,06/09/2025,High,No,Preparing all documents as requested,,,Medium
-,,,Quality Assurance Review,Not started ,Johan De Beer,06/09/2025,High,No,Quality check on all documents,,04/09/2025,High
+,,,Preparing Documents,In progress ,MP Vorster,06/09/2025,High,No,Preparing all documents as requested,,04/09/2025,Medium
+,,,Quality Assurance Review,Not started ,Johan De Beer,06/09/2025,High,No,Quality check on all documents,,,High
 ,,,Documents Ready,Not started ,Johan De Beer,06/09/2025,High,No,Documents finalized and approved,,,
 
 ,,,Documents sent,Not started,,06/09/2025,High,No,Documents sent to client,,,
+
 
