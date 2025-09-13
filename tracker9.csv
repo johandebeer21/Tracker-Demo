@@ -2,11 +2,12 @@ Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,D
 Ibrahim,Mangera,Expungement,Application Received,Done,L.Potgieter,10/09/2025,High,Yes,Application recieved from Tally,,10/09/2025,
 ,,,Payment Confirmed,Done,Yoco,10/09/2025,High,Yes,Payment confirmed via Yoco/EFT,,10/09/2025,High
 ,,,Preparing Documents,Done ,MP Vorster,14/09/2025,High,No,Preparing all documents as requested,,12/09/2025,Medium
-,,,Quality Assurance Review,In progress ,Johan De Beer,14/09/2025,High,No,Quality check on all documents,,12/09/2025,High
-,,,Documents Ready,Not started ,Johan De Beer,14/09/2025,High,No,Documents finalized and approved,,,
+,,,Quality Assurance Review,Done ,Johan De Beer,14/09/2025,High,No,Quality check on all documents,,12/09/2025,High
+,,,Documents Ready, Done ,Johan De Beer,14/09/2025,High,No,Documents finalized and approved,,,
 
 
-,,,Documents sent,Not started,,14/09/2025,High,No,Documents sent to client,,,
+,,,Documents sent,Done,,14/09/2025,High,No,Documents sent to client,,,
+
 
 
 
