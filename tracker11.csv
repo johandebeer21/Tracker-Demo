@@ -2,10 +2,11 @@ Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,D
 Mohammed Zahid  ,Nabbie ,Section 13,Application Received,Done,MP Vorster,,High,Yes,Application recieved from Tally,,17/09/2025,
 ,,,Payment Confirmed, Done ,Yoco,,High,Yes,Payment confirmed via Yoco/EFT,,17/09/2025,High
 ,,,Preparing Documents,In Progress ,MP Vorster,19/09/2025,High,No,Preparing all documents as requested,,29/08/2025,Medium
-,,,Quality Assurance Review,Not Started,Johan De Beer,29/08/2025,High,No,Quality check on all documents,,,High
-,,,Documents Ready,Not Started,Johan De Beer,29/08/2025,High,No,Documents finalized and approved,,,
+,,,Quality Assurance Review,Not Started,Johan De Beer,19/09/2025,High,No,Quality check on all documents,,,High
+,,,Documents Ready,Not Started,Johan De Beer,19/09/2025,High,No,Documents finalized and approved,,,
 
-,,,Documents sent,Not Started,,29/08/2025,High,No,Documents sent to client,,,
+,,,Documents sent,Not Started,,19/09/2025,High,No,Documents sent to client,,,
+
 
 
 
