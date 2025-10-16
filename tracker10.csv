@@ -1,9 +1,10 @@
 Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,Description,Attach file,Updated at,Effort level
 Charl,van Wyk,Section 16,Application Received,Not Started,L. Potgieter,02/10/2025,High,Yes,Application recieved from Tally,,16/10/2025,
-,,,Payment Confirmed,Done,Yoco,02/10/2025,High,Yes,Payment confirmed via Yoco/EFT,,16/10/2025,High
+,,,Payment Confirmed,Done,Yoco,16/10/2025,High,Yes,Payment confirmed via Yoco/EFT,,16/10/2025,High
 ,,,Preparing Documents,Not started ,MP Vorster,,High,No,Preparing all documents as requested,,16/10/2025,Medium
 ,,,Quality Assurance Review,Not started,Johan De Beer,,High,No,Quality check on all documents,,,High
-,,,Documents Ready,Not started ,Johan De Beer,,High,No,Documents finalized and approved,,,
+,,,Documents Ready,Not started ,Johan De Beer,,High,No,Documents finalized and approved,,16/10/2025,
 
 ,,,Documents sent,Not started,,,High,No,Documents sent to client,,,
+
 
