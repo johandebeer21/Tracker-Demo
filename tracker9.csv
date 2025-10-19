@@ -2,11 +2,12 @@ Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,D
 Thamsanqa,Ndwandwe, Section 13,Application Received,Done,L.Potgieter,17/10/2025,High,Yes,Application recieved from Tally,,17/10/2025,
 ,,,Payment Confirmed,Done,Yoco,17/10/2025,High,Yes,Payment confirmed via Yoco/EFT,,17/10/2025,High
 ,,,Preparing Documents,Done ,MP Vorster,19/10/2025,High,No,Preparing all documents as requested,,19/10/2025,Medium
-,,,Quality Assurance Review,In progress ,Johan De Beer,19/10/2025,High,No,Quality check on all documents,,19/10/2025,High
-,,,Documents Ready, Not started ,MP Vorster,19/10/2025,High,No,Documents finalized and approved,,,
+,,,Quality Assurance Review,Done ,Johan De Beer,19/10/2025,High,No,Quality check on all documents,,19/10/2025,High
+,,,Documents Ready, Done ,MP Vorster,19/10/2025,High,No,Documents finalized and approved,,,
 
 
-,,,Documents sent,Not started,,19/10/2025,High,No,Documents sent to client,,,
+,,,Documents sent,Done,,19/10/2025,High,No,Documents sent to client,,,
+
 
 
 
