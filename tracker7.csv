@@ -1,11 +1,12 @@
 Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,Description,Attach file,Updated at,Effort level
 Vernon,Piek,Section 16 ,Application Received,in progress,MP Vorster,,High,Yes,Application recieved from Tally,,11/11/2025,
 ,,,Payment Confirmed,Done,Yoco,,High,Yes,Payment confirmed via Yoco/EFT,,11/11/2025,High
-,,,Preparing Documents,not started ,MP Vorster,12/11/2025,High,No,Preparing all documents as requested,,11/11/2025,Medium
+,,,Preparing Documents,Not started ,MP Vorster,12/11/2025,High,No,Preparing all documents as requested,,11/11/2025,Medium
 ,,,Quality Assurance Review,Not started,Johan De Beer,12/11/2025,High,No,Quality check on all documents,,11/11/2025,High
 ,,,Documents Ready,Not started,MP Vorster,12/11/2025,High,No,Documents finalized and approved,,11/11/2025,
 
 ,,,Documents sent,Not started,,12/11/2025,High,No,Documents sent to client,,11/11/2025,
+
 
 
 
