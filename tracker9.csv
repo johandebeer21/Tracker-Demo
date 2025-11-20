@@ -2,11 +2,12 @@ Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,D
 Aiden,Clarke, Section 13,Application Received,Done,L.Potgieter,18/11/2025,High,Yes,Application recieved from Tally,,18/11/2025,
 ,,,Payment Confirmed,Done,Yoco,18/11/2025,High,Yes,Payment confirmed via Yoco/EFT,,18/11/2025,High
 ,,,Preparing Documents,Done ,MP Vorster,20/11/2025,High,No,Preparing all documents as requested,,19/11/2025,Medium
-,,,Quality Assurance ,In progress ,Johan De Beer,20/11/2025,High,No,Quality check on all documents,,19/11/2025,High
-,,,Documents Ready,Not started ,MP Vorster,20/11/2025,High,No,Documents finalized and approved,,18/11/2025,
+,,,Quality Assurance ,Done ,Johan De Beer,20/11/2025,High,No,Quality check on all documents,,19/11/2025,High
+,,,Documents Ready,Done ,MP Vorster,20/11/2025,High,No,Documents finalized and approved,,18/11/2025,
 
 
 ,,,Documents sent,Not started,,20/11/2025,High,No,Documents sent to client,,18/11/2025,
+
 
 
 
