@@ -1,11 +1,12 @@
 Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,Description,Attach file,Updated at,Effort level
-Charl,van Wyk,Storage application,Application Received,Done,L. Potgieter,16/10/2025,High,Yes,Application recieved from Tally,,16/10/2025,
+Vernon,Piek,Storage application,Application Received,Done,L. Potgieter,16/10/2025,High,Yes,Application recieved from Tally,,16/10/2025,
 ,,,Payment Confirmed,Done,Yoco,16/10/2025,High,Yes,Payment confirmed via Yoco/EFT,,16/10/2025,High
 ,,,Preparing Documents,Done ,MP Vorster,21/10/2025,High,No,Preparing all documents as requested,,21/10/2025,Medium
 ,,,Quality Assurance Review,Done,Johan De Beer,21/10/2025,High,No,Quality check on all documents,,21/10/2025,High
 ,,,Documents Ready,Done ,MP Vorster,21/10/2025,High,No,Documents finalized and approved,,21/10/2025,
 
 ,,,Documents sent,Done,,,High,No,Documents sent to client,,,
+
 
 
 
