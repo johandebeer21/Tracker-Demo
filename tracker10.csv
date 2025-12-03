@@ -2,10 +2,11 @@ Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,D
 Vernon,Piek, Section 16,Application Received,Done,L. Potgieter,01/12/2025,High,Yes,Application recieved from Tally,,02/12/2025,
 ,,,Payment Confirmed,Done,Yoco,01/12/2025,High,Yes,Payment confirmed via Yoco/EFT,,01/12/2025,High
 ,,,Preparing Documents,Done ,MP Vorster,03/12/2025,High,No,Preparing all documents as requested,,03/12/2025,Medium
-,,,Quality Assurance Review,In progress,Johan De Beer,03/11/2025,High,No,Quality check on all documents,,03/12/2025,High
-,,,Documents Ready,In progress ,MP Vorster,03/12/2025,High,No,Documents finalized and approved,,03/12/2025,
+,,,Quality Assurance Review,Done,Johan De Beer,03/11/2025,High,No,Quality check on all documents,,03/12/2025,High
+,,,Documents Ready,Done ,MP Vorster,03/12/2025,High,No,Documents finalized and approved,,03/12/2025,
 
-,,,Documents sent,Not started,,03/12/2025,High,No,Documents sent to client,,01/12/2025,
+,,,Documents sent,Done,,03/12/2025,High,No,Documents sent to client,,03/12/2025,
+
 
 
 
