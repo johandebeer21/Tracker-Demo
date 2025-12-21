@@ -1,5 +1,5 @@
 Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,Description,Attach file,Updated at,Effort level
-Kamogelo,matsobe, Section 15,Application Received,Done,L.Potgieter,21/12/2025,High,Yes,Application recieved from Tally,,21/12/2025,
+Kamogelo,Matsobe, Section 15,Application Received,Done,L.Potgieter,21/12/2025,High,Yes,Application recieved from Tally,,21/12/2025,
 ,,,Payment Confirmed,In progress,Yoco,21/11/2025,High,Yes,Payment confirmed via Yoco/EFT,,21/12/2025,High
 ,,,Preparing Documents,Not started,MP Vorster,23/12/2025,High,No,Preparing all documents as requested,,21/12/2025,Medium
 ,,,Quality Assurance ,Not started,Johan De Beer,23/12/2025,High,No,Quality check on all documents,,21/12/2025,High
@@ -7,6 +7,7 @@ Kamogelo,matsobe, Section 15,Application Received,Done,L.Potgieter,21/12/2025,Hi
 
 
 ,,,Documents sent,Not started,L.Potgieter,23/12/2025,High,No,Documents sent to client,,21/12/2025,
+
 
 
 
