@@ -1,12 +1,13 @@
 Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,Description,Attach file,Updated at,Effort level
-Tristan,Naidu, Section 13,Application Received,Done,L.Potgieter,07/12/2025,High,Yes,Application recieved from Tally,,07/12/2025,
-,,,Payment Confirmed,Done,Yoco,07/11/2025,High,Yes,Payment confirmed via Yoco/EFT,,07/12/2025,High
-,,,Preparing Documents,Done,MP Vorster,09/12/2025,High,No,Preparing all documents as requested,,09/12/2025,Medium
-,,,Quality Assurance ,Done ,Johan De Beer,09/12/2025,High,No,Quality check on all documents,,09/12/2025,High
-,,,Documents Ready,Done,MP Vorster,09/12/2025,High,No,Documents finalized and approved,,09/12/2025,
+Kamogelo,matsobe, Section 15,Application Received,Done,L.Potgieter,21/12/2025,High,Yes,Application recieved from Tally,,21/12/2025,
+,,,Payment Confirmed,In progress,Yoco,21/11/2025,High,Yes,Payment confirmed via Yoco/EFT,,21/12/2025,High
+,,,Preparing Documents,Not started,MP Vorster,23/12/2025,High,No,Preparing all documents as requested,,21/12/2025,Medium
+,,,Quality Assurance ,Not started,Johan De Beer,23/12/2025,High,No,Quality check on all documents,,21/12/2025,High
+,,,Documents Ready,Not started,MP Vorster,23/12/2025,High,No,Documents finalized and approved,,21/12/2025,
 
 
-,,,Documents sent,Done,L.Potgieter,09/12/2025,High,No,Documents sent to client,,07/12/2025,
+,,,Documents sent,Not started,L.Potgieter,23/12/2025,High,No,Documents sent to client,,21/12/2025,
+
 
 
 
