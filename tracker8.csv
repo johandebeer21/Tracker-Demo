@@ -2,10 +2,11 @@ Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,D
 Charl ,van Wyk ,Section 16,Application Received,Done,L. Potgieter,,High,Yes,Application recieved from Tally,,19/12/2025,
 ,,,Payment Confirmed,Done ,Yoco,,High,Yes,Payment confirmed via Yoco/EFT,,19/12/2025,High
 ,,,Preparing Documents,Done,MP Vorster,22/12/2025,High,No,Preparing all documents as requested,,22/12/2025,Medium
-,,,Quality Assurance Review,In progress,Johan De Beer,22/12/2025,High,No,Quality check on all documents,,22/12/2025,High
-,,,Documents Ready,In progress,,22/12/2025,High,No,Documents finalized and approved,,22/12/2025,
+,,,Quality Assurance Review, Done,Johan De Beer,22/12/2025,High,No,Quality check on all documents,,22/12/2025,High
+,,,Documents Ready, Done,,22/12/2025,High,No,Documents finalized and approved,,22/12/2025,
 
-,,,Documents sent,Not started,,22/12/2025,High,No,Documents sent to client,,19/12/2025,
+,,,Documents sent, Done,,22/12/2025,High,No,Documents sent to client,,22/12/2025,
+
 
 
 
