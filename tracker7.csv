@@ -2,10 +2,11 @@ Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,D
 Denise ,Du Plessis,Section 13 Renewal ,Application Received,Done,L Potgieter,26/01/2026,High,Yes,Application recieved from Tally,,26/01/2026,
 ,,,Payment Confirmed,Done,Yoco,26/01/2026,High,Yes,Payment confirmed via Yoco/EFT,,26/01/2026,High
 ,,,Preparing Documents,Done,MP Vorster,28/01/2026,High,No,Preparing all documents as requested,,27/01/2026,Medium
-,,,Quality Assurance Review,Done,Johan De Beer,28/01/2026,High,No,Quality check on all documents,,27/01/2026,High
-,,,Documents Ready,Done,MP Vorster,28/01/2026,High,No,Documents finalized and approved,,27/01/2026,
+,,,Quality Assurance Review,Done,Johan De Beer,28/01/2026,High,No,Quality check on all documents,,28/01/2026,High
+,,,Documents Ready,Done,MP Vorster,28/01/2026,High,No,Documents finalized and approved,,28/01/2026,
 
-,,,Documents sent,Not started,L Potgieter,28/01/2026,High,No,Documents sent to client,,27/01/2026,
+,,,Documents sent,Done,L Potgieter,28/01/2026,High,No,Documents sent to client,,28/01/2026,
+
 
 
 
