@@ -1,11 +1,12 @@
 Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,Description,Attach file,Updated at,Effort level
-Thembane Johannes,Mxonjene, Competency Application,Application Received,Done,L Potgieter,12/02/2026,High,Yes,Application recieved from Tally,,15/02/2026,
-,,,Payment Confirmed,Done,Yoco,26/01/2026,High,Yes,Payment confirmed via Yoco/EFT,,26/01/2026,High
-,,,Preparing Documents,Done,MP Vorster,28/01/2026,High,No,Preparing all documents as requested,,27/01/2026,Medium
-,,,Quality Assurance Review,Done,Johan De Beer,28/01/2026,High,No,Quality check on all documents,,28/01/2026,High
-,,,Documents Ready,Done,MP Vorster,28/01/2026,High,No,Documents finalized and approved,,28/01/2026,
+Thembane Johannes,Mxonjene, Competency Application,Application Received,Done,L Potgieter,12/02/2026,High,Yes,Application recieved from Tally,,12/02/2026,
+,,,Payment Confirmed,Done,Yoco,12/02/2026,High,Yes,Payment confirmed via Yoco/EFT,,12/02/2026,High
+,,,Preparing Documents,Done,MP Vorster,15/02/2026,High,No,Preparing all documents as requested,,22/02/2026,Medium
+,,,Quality Assurance Review,Done,Johan De Beer,15/02/2026,High,No,Quality check on all documents,,12/02/2026,High
+,,,Documents Ready,Done,MP Vorster,15/02/2026,High,No,Documents finalized and approved,,12/02/2026,
 
-,,,Documents sent,Done,L Potgieter,28/01/2026,High,No,Documents sent to client,,28/01/2026,
+,,,Documents sent,Done,L Potgieter,15/02/2026,High,No,Documents sent to client,,12/02/2026,
+
 
 
 
