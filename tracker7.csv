@@ -2,10 +2,11 @@ Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,D
 Kagiso,Ramokopu, Section 13,Application Received,Done,L Potgieter,25/02/2026,High,Yes,Application recieved from Tally,,25/02/2026,
 ,,,Payment Confirmed,Done,Yoco,25/02/2026,High,Yes,Payment confirmed via Yoco/EFT,,25/02/2026,High
 ,,,Preparing Documents, Done,MP Vorster,28/02/2026,High,No,Preparing all documents as requested,,27/02/2026,Medium
-,,,Quality Assurance Review,In progress,Johan De Beer,28/02/2026,High,No,Quality check on all documents,,25/02/2026,High
+,,,Quality Assurance Review,In progress,Johan De Beer,28/02/2026,High,No,Quality check on all documents,,27/02/2026,High
 ,,,Documents Ready,Not started,MP Vorster,28/02/2026,High,No,Documents finalized and approved,,25/02/2026,
 
 ,,,Documents sent,Not started,L Potgieter,28/02/2026,High,No,Documents sent to client,,25/02/2026,
+
 
 
 
