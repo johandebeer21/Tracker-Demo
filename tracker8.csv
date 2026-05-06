@@ -1,11 +1,11 @@
 Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,Description,Attach file,Updated at,Effort level
-Better , Sibanda ,Section 20,Application Received,Done,L. Potgieter,23/04/2026,High,Yes,Application recieved from Tally,,23/04/2026,
-,,,Payment Confirmed, Done,Yoco,23/04/2026,High,Yes,Payment confirmed via Yoco/EFT,,23/04/2026,High
-,,,Preparing Documents, Done,MP Vorster,25/04/2026,High,No,Preparing all documents as requested,,25/04/2026,Medium
-,,,Quality Assurance Review, Done,Johan De Beer,26/04/2026,High,No,Quality check on all documents,,25/04/2026,High
-,,,Documents Ready,Done ,MP Vorster,26/04/2026,High,No,Documents finalized and approved,,26/04/2026,
+Vernon/Zelda, Piek ,Section 16,Application Received,Done,L. Potgieter,06/05/2026,High,Yes,Application recieved from Tally,,06/05/2026,
+,,,Payment Confirmed, Done,Yoco,06/05/2026,High,Yes,Payment confirmed via Yoco/EFT,,06/05/2026,High
+,,,Preparing Documents, Done,MP Vorster,10/05/2026,High,No,Preparing all documents as requested,,06/05/2026,Medium
+,,,Quality Assurance Review, Done,Johan De Beer,10/05/2026,High,No,Quality check on all documents,,06/05/2026,High
+,,,Documents Ready,Done ,MP Vorster,10/05/2026,High,No,Documents finalized and approved,,06/05/2026,
 
-,,,Documents sent, Done, L. Potgieter,26/04/2026,High,No,Documents sent to client,,26/04/2026,
+,,,Documents sent, Done, L. Potgieter,10/05/2026,High,No,Documents sent to client,,06/05/2026,
 
 
 
