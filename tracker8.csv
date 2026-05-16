@@ -2,10 +2,10 @@ Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,D
 Njabulo, Mbutho,Section 13,Application Received,Done,L. Potgieter,13/05/2026,High,Yes,Application recieved from Tally,,13/05/2026,
 ,,,Payment Confirmed, Done,Yoco,13/05/2026,High,Yes,Payment confirmed via Yoco/EFT,,13/05/2026,High
 ,,,Preparing Documents, Done,MP Vorster,16/05/2026,High,No,Preparing all documents as requested,,16/05/2026,Medium
-,,,Quality Assurance Review, In progress,Johan De Beer,16/05/2026,High,No,Quality check on all documents,,16/05/2026,High
-,,,Documents Ready,Not started ,MP Vorster,16/05/2026,High,No,Documents finalized and approved,,13/05/2026,
+,,,Quality Assurance Review, Done,Johan De Beer,16/05/2026,High,No,Quality check on all documents,,16/05/2026,High
+,,,Documents Ready, Done,MP Vorster,16/05/2026,High,No,Documents finalized and approved,,13/05/2026,
 
-,,,Documents sent, Not started, L. Potgieter,16/05/2026,High,No,Documents sent to client,,13/05/2026,
+,,,Documents sent, Done, L. Potgieter,16/05/2026,High,No,Documents sent to client,,13/05/2026,
 
 
 
