@@ -2,10 +2,10 @@ Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,D
 Brandon David ,Bouillon - 6 Credits available, Section 13,Application Received,Done,L Potgieter,25/05/2026,High,Yes,Application recieved from Tally,,25/05/2026,
 ,,,Payment Confirmed,Done,Credits,25/05/2026,High,Yes,Payment confirmed via,Credits,25/05/2026,High
 ,,,Preparing Documents,Done,MP Vorster,27/05/2026,High,No,Preparing all documents as requested,,26/05/2026,Medium
-,,,Quality Assurance Review,In progress,Johan De Beer,27/05/2026,High,No,Quality check on all documents,,26/05/2026,High
-,,,Documents Ready,Not started,MP Vorster,27/05/2026,High,No,Documents finalized and approved,,25/05/2026,
+,,,Quality Assurance Review,Done,Johan De Beer,27/05/2026,High,No,Quality check on all documents,,27/05/2026,High
+,,,Documents Ready,Done,MP Vorster,27/05/2026,High,No,Documents finalized and approved,,27/05/2026,
 
-,,,Documents sent,Not started,L Potgieter,27/05/2026,High,No,Documents sent to client,,25/05/2026,
+,,,Documents sent,In progress,L Potgieter,27/05/2026,High,No,Documents sent to client,,27/05/2026,
 
 
 
