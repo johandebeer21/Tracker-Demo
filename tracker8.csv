@@ -2,10 +2,10 @@ Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,D
 Timothy, Tlhomelang,Section 13/15,Application Received,Done,L. Potgieter,28/05/2026,High,Yes,Application recieved from Tally,,28/05/2026,
 ,,,Payment Confirmed, Done,Yoco,28/05/2026,High,Yes,Payment confirmed via Yoco/EFT,,28/05/2026,High
 ,,,Preparing Documents,Done,MP Vorster,01/05/2026,High,No,Preparing all documents as requested,,31/05/2026,Medium
-,,,Quality Assurance Review,In progress,Johan De Beer,01/05/2026,High,No,Quality check on all documents,,31/05/2026,High
-,,,Documents Ready, Not started,MP Vorster,01/05/2026,High,No,Documents finalized and approved,,28/05/2026,
+,,,Quality Assurance Review,Done,Johan De Beer,01/05/2026,High,No,Quality check on all documents,,31/05/2026,High
+,,,Documents Ready, Done,MP Vorster,01/05/2026,High,No,Documents finalized and approved,,28/05/2026,
 
-,,,Documents sent, Not started, L. Potgieter,01/05/2026,High,No,Documents sent to client,,28/05/2026,
+,,,Documents sent, Done, L. Potgieter,01/05/2026,High,No,Documents sent to client,,28/05/2026,
 
 
 
