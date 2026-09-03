@@ -2,10 +2,10 @@ Name,Surname,Application type,Task,Status,Assignee,Due date,Priority,Completed,D
 Francois,Sinden,Section 13 Renewal,Application Received,Done,L. Potgieter,31/08/2026,High,Yes,Application recieved from Tally,,31/08/2026,
 ,,,Payment Confirmed, Done,Yoco,31/08/2026,High,Yes,Payment confirmed via Yoco/EFT,,31/08/2026,High
 ,,,Preparing Documents,Done,MP Vorster,03/09/2026,High,No,Preparing all documents as requested,,02/08/2026,Medium
-,,,Quality Assurance Review,In progress,Johan De Beer,03/09/2026,High,No,Quality check on all documents,,02/08/2026,High
-,,,Documents Ready, Not started,MP Vorster,03/09/2026,High,No,Documents finalized and approved,,31/08/2026,
+,,,Quality Assurance Review,Done,Johan De Beer,03/09/2026,High,No,Quality check on all documents,,03/08/2026,High
+,,,Documents Ready, Done,MP Vorster,03/09/2026,High,No,Documents finalized and approved,,03/08/2026,
 
-,,,Documents sent, Not started, L. Potgieter,03/09/2026,High,No,Documents sent to client,,31/08/2026,
+,,,Documents sent, Done, L. Potgieter,03/09/2026,High,No,Documents sent to client,,03/08/2026,
 
 
 
